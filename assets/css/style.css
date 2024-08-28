@@ -4,4 +4,5 @@
 
 .nav-container {
     text-align: center;
+    flex-direction: column;
 }
